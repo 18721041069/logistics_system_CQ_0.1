@@ -1,0 +1,135 @@
+{
+  "success": true,
+  "data": {
+      "columns": [
+        {
+        "id": 1,
+        "name": "供应商名称"
+        },{
+          "id": 2,
+          "name": "地址"
+        },{
+          "id": 3,
+          "name": "邮政编码"
+        },{
+          "id": 4,
+          "name": "联系电话"
+        },{
+          "id": 5,
+          "name": "传真号码"
+        },{
+          "id": 6,
+          "name": "开户银行"
+        },{
+          "id": 7,
+          "name": "银行账号"
+        },{
+          "id": 8,
+          "name": "备注"
+        }
+      ],
+      "suppliers": [
+        {
+          "key": 1,
+          "供应商名称": "物流公司",
+          "地址": "上海",
+          "邮政编码": "044000",
+          "联系电话": "12345678909",
+          "传真号码": "3456278",
+          "开户银行": "中国银行",
+          "银行账号": "1234567890987654321",
+          "备注": "没有备注"
+        },{
+          "key": 2,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 3,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 4,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 5,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 6,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 7,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 8,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 9,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        },{
+          "key": 10,
+          "供应商名称": "xxx有限公司",
+          "地址": "xx省xx市xxx路xxx号",
+          "邮政编码": "xxxxxx",
+          "联系电话": "xxxxxxxxxxx",
+          "传真号码": "xxxxxxx",
+          "开户银行": "xxxx银行",
+          "银行账号": "xxxxxxxxxxxxxxxxxxxx",
+          "备注": "xxxxxxxxxxxxxxxxx"
+        }
+      ]
+  }
+}
