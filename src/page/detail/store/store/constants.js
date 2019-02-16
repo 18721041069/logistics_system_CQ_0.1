@@ -1,0 +1,6 @@
+export const GET_TABLE_DATA = 'store/GET_TABLE_DATA';
+export const HANDLE_SEARCH = 'store/HANDLE_SEARCH';
+export const CHANGE_SEARCH = 'store/CHANGE_SEARCH';
+export const CHANGE_DELETE_VISIBLE = 'store/CHANGE_DELETE_VISIBLE';
+export const CHANGE_ADD_VISIBLE = 'store/CHANGE_ADD_VISIBLE';
+export const CHANGE_UPDATE_VISIBLE = 'store/CHANGE_UPDATE_VISIBLE';

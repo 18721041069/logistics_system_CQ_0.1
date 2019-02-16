@@ -1,1 +1,0 @@
-export const GET_TABLE_DATA = 'dispatch/GET_TABLE_DATA';

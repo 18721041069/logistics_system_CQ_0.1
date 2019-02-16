@@ -1,1 +1,0 @@
-export const GET_TABLE_DATA = 'delivery/GET_TABLE_DATA';
